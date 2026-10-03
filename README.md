@@ -1,23 +1,21 @@
 # AI Telegram Bot
 
-A Telegram bot project focused on AI-powered conversations and automation using Google Gemini.
+A Telegram bot focused on AI-powered conversations and automation using Google Gemini.
 
 ## Requirements
 
 - Python 3
-- A Telegram bot token from BotFather
-- Google Gemini API credentials if required by the current configuration
+- Telegram bot token
+- Google Gemini API credentials when required by the configuration
 
 ## Installation
-
-Clone the repository and install the Python dependencies listed by the project:
 
 ```bash
 git clone https://github.com/ryoaonetsuki/gemini-telegram-bot.git
 cd gemini-telegram-bot
 ```
 
-If the repository contains a `requirements.txt` file:
+If `requirements.txt` is present:
 
 ```bash
 pip install -r requirements.txt
@@ -25,16 +23,18 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Set the Telegram token and Gemini credentials using environment variables or the project's configuration file. Do not commit real tokens or API keys.
+Set the Telegram token and Gemini credentials using the environment variables or configuration method expected by the source code.
+
+Never commit real tokens or API keys.
 
 ## Run
 
-Start the bot using the entry-point script in the repository. If a Python module or script is specified in the project configuration, run that file with Python 3.
+Start the Python entry-point script provided by the repository. Check the source files for the current entry point before running the bot.
 
 ## Development
 
-Test the bot with a private Telegram chat before adding it to a group or production deployment.
+Test the bot in a private chat first, then configure group permissions if needed.
 
 ## Security
 
-Treat bot tokens and AI API keys as passwords. Rotate any credential that is accidentally exposed.
+Treat bot tokens and API keys as passwords. Rotate credentials immediately if they are exposed.
