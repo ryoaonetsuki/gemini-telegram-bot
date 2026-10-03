@@ -3,16 +3,16 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/salman-dev-app/GemBot-Ai">
+  <a href="https://github.com/ryoaonetsuki/GemBot-Ai">
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=GemBot+AI;Powered+by+Google+Gemini" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google-Gemini%20AI-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
-  <img src="https://img.shields.io/github/last-commit/salman-dev-app/GemBot-Ai?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/salman-dev-app/GemBot-Ai?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/salman-dev-app/GemBot-Ai?style=for-the-badge&color=63A4FF&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/ryoaonetsuki/GemBot-Ai?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/ryoaonetsuki/GemBot-Ai?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/forks/ryoaonetsuki/GemBot-Ai?style=for-the-badge&color=63A4FF&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ GemBot-AI is a smart Telegram chatbot built with Python that integrates the Goog
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Start" width="30" height="30" style="vertical-align:middle;" /> Getting Started
 
 ```bash
-git clone https://github.com/salman-dev-app/GemBot-Ai.git
+git clone https://github.com/ryoaonetsuki/GemBot-Ai.git
 cd GemBot-Ai
 ```
 
@@ -69,7 +69,7 @@ cd GemBot-Ai
   <a href="https://wa.me/8801840933137">
     <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/salman-dev-app">
+  <a href="https://github.com/ryoaonetsuki">
     <img src="https://img.shields.io/badge/GitHub-Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -93,7 +93,7 @@ cd GemBot-Ai
 
 <footer align="center">
   <p>&copy; 2024-2026 Md Salman Biswas &middot; All rights reserved</p>
-  <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
+  <p>Engineered by <a href="https://github.com/ryoaonetsuki">Md Salman Biswas</a></p>
 </footer>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
